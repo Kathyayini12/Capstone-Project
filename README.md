@@ -1,2 +1,3 @@
 # Capstone-Project
 IBM Data Analyst Capstone Project
+In order to keep pace with changing technologies and remain competitive, to identify future skill requirements, we utilized various data sources and collection methods, including web scraping, API access, and data files, to gather relevant information. Employing statistical techniques and tools like Python, Pandas, and NumPy, we conducted thorough data analysis, cleansing, and preprocessing to identify future skill requirements. To visually represent the data, we created interactive dashboards using “IBM Cognos Analytics”, enabling stakeholders to explore trends and insights easily. Finally, we presented our findings using storytelling techniques, effectively communicating the key insights and their implications.
